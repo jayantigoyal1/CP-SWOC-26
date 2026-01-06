@@ -51,7 +51,12 @@ Clone your fork to your local machine.
 
 ### 3. 🌿 Create a Branch
 
-Make a new branch for your feature or solution.
+Make a new branch for your feature or solution. 
+```
+git checkout -b new-branch-name
+```
+
+
 Example:
 
 ```
@@ -115,10 +120,26 @@ Your contributions help the community grow — thank you for being part of this 
 ## 🙌 Maintainers
 
 Feel free to reach out to the maintainers if you have any questions or suggestions.
+<br>
+Aditi Mehta - @aditi75432
+
 
 ---
 
 ## 🤝 Collaborators
+
+<br>
+Jaismeen - @Jaismeen777
+<br>
+Sanika- @sanikakhanduja	
+<br>
+Tammana- @Tammanasehwag	
+<br>
+Harshita- @codeX-Crafter
+<br>
+Shambhavi- @Shambaby	
+<br>
+																	
 
 We welcome collaborators!
 Join us in building a strong, beginner-friendly CP resource for the community.
